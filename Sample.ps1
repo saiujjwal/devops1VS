@@ -5,3 +5,5 @@ $b = "Hello"
 Write-Host $b
 
 # Adding Comments to this repo test 1
+
+function gitgraph { git log --oneline --graph --decorate --all }
